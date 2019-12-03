@@ -1,1 +1,3 @@
 https://www.cnblogs.com/gougouyangzi/articles/9429280.html
+
+同时修改两个文件
